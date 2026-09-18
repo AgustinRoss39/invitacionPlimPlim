@@ -22,25 +22,25 @@ window.INVITATION_CONFIG = {
     {
       src: "https://raw.githubusercontent.com/DigitalRoss/invitacionPlimPlim/main/www.tarjetas.cool/modelos/cumple/plim_plim/img/1.png",
       width: "min(108vw, 490px)",
-      top: "-44px",
+      top: "18px",
       translateX: "-50%"
     },
     {
       src: "https://raw.githubusercontent.com/DigitalRoss/invitacionPlimPlim/main/www.tarjetas.cool/modelos/cumple/plim_plim/img/4.png",
       width: "min(122vw, 540px)",
-      top: "-96px",
+      top: "-28px",
       translateX: "-50%"
     },
     {
       src: "https://raw.githubusercontent.com/DigitalRoss/invitacionPlimPlim/main/www.tarjetas.cool/modelos/cumple/plim_plim/img/3.png",
       width: "min(114vw, 510px)",
-      top: "-45px",
+      top: "18px",
       translateX: "-50%"
     },
     {
       src: "https://raw.githubusercontent.com/DigitalRoss/invitacionPlimPlim/main/www.tarjetas.cool/modelos/cumple/plim_plim/img/2.png",
       width: "min(90vw, 400px)",
-      top: "-72px",
+      top: "-10px",
       translateX: "-49%"
     }
   ]
